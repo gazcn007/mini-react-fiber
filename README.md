@@ -1,4 +1,4 @@
-# Demo for Fiber
+# Mini demo to explain React Fiber
 ## Stack Reconciler
 ![stack-reconciler](https://user-images.githubusercontent.com/12766318/113168374-2f76a400-9277-11eb-8af4-44f46acbbfed.gif)
 
